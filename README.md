@@ -3,7 +3,7 @@
 gminer is a console program that is executed from a DOS command prompt within Windows Operating System.
 There is no GUI and no mouse support.
 
-![image](https://user-images.githubusercontent.com/79031062/157154207-7152a625-d3f3-49cc-9aec-13b994c154b0.png)
+![image](https://user-images.githubusercontent.com/79031062/157155215-e2f3bdcd-c03a-41ad-b437-c1b75d981941.png)
 
 
 **gminer-cpu** is a miner for the **Gemyn** cryptocurrency and is for those who doesn't have GPUs and want to mine their own cryptocurrencies using their normalcomputers.
